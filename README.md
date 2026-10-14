@@ -1,5 +1,7 @@
 # nelove — production e-commerce platform
 
+**Live:** https://nelove.onrender.com · **Repo:** https://github.com/basgenix4u/nelove (public) · **Admin:** https://nelove.onrender.com/#/admin
+
 A full-stack fashion e-commerce build: Oryze-inspired storefront, a real Express + SQLite backend, secure admin dashboard, Paystack payments and Cloudinary uploads — with zero fake functionality.
 
 ## Stack
